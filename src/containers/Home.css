@@ -1,0 +1,10 @@
+.ReactGridGallery_custom-overlay {
+    pointer-events: all !important;
+    height: 20% !important;
+    top: 145px !important;
+}
+
+.etagtoast {
+    position: absolute;
+    z-index: 1000;
+}
